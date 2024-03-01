@@ -1,2 +1,2 @@
-# coursera-qa
+# coursera-site
 Coursera Site 
